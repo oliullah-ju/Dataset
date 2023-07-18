@@ -1,4 +1,4 @@
-# Dataset
+# Sexual Harassment Dataset
 Sexual Harassment Touch Classification Dataset
 
 The sexual harassment dataset, which consists of 1048 instances, was collected from 50 students of BUBT (Bangladesh University of Business and Technology). The dataset includes six fields: force 1(gm), force 2(gm), force 3(gm), force 4(gm), time(sec), and force type, where the force fields represent force values of touches in the sensitive parts of the human body and the force type field indicates whether it was a harassment touch or an unwanted touch.
